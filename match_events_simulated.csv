@@ -1,0 +1,5 @@
+id_evento,jugadora,event_type,start_x,start_y
+1,Jin (8),Pase,45.0,34.0
+2,Jo (11),Tiro,88.5,45.0
+3,Nam (5),Recuperacion,20.0,15.0
+4,Lee (10),Pase Filtrado,75.0,50.0
